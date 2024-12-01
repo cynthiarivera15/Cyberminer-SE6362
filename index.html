@@ -1,0 +1,73 @@
+<!--
+Name: index.html
+Course: SE6362
+NOTE: ChatGPT was use to help design the frontend
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Choose System</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+
+<style>
+    body {
+      height: 100vh;                /* Full viewport height */
+      margin: 0;                    /* Remove default margin */
+      display: flex;                /* Use Flexbox */
+      justify-content: center;      /* Center horizontally */
+      align-items: center;          /* Center vertically */
+    }
+
+    .container {
+      text-align: center;
+      width: 100%;
+      max-width: 600px;
+      padding: 20px;
+      background-color: white;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0);
+    }
+
+    .form-group {
+      display: flex;                /* Use flexbox for the form */
+      justify-content: center;      /* Center the items inside the form */
+      align-items: center;          /* Vertically center */
+    }
+
+    .form-group button {
+      width: 200px;
+      height: 60px;
+      padding: 0;
+      font-size: 20px;
+      border-radius: 0px;
+      border: none;
+      background-color: #a6a6a6;
+      color: white;
+      cursor: pointer;
+      margin: 10px;
+    }
+
+    .form-group button:hover {
+      background-color: #737373;
+    }
+</style>
+
+<body>
+    <div class="container">
+        <h1>Choose a System</h1>
+
+        <!-- Buttons to select system -->
+        <div class="form-group">
+            <button onclick="window.location.href='kwic_system_page.html';">KWIC System</button>
+            <button onclick="window.location.href='cyberminer_page.html';">Cyberminer</button>
+        </div>
+    </div>
+</body>
+
+</html>

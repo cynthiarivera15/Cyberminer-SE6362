@@ -1,0 +1,138 @@
+<!--
+Name: cyberminer_page.html
+Course: SE6362
+NOTE: The logo was use using Canva and ChatGPT was use to help design the frontend
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Submission</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+
+<style>
+    body {
+      height: 100vh;                /* Full viewport height */
+      margin: 0;                    /* Remove default margin */
+      display: flex;                /* Use Flexbox */
+      justify-content: center;      /* Center horizontally */
+      align-items: center;          /* Center vertically */
+    }
+
+    ul {
+      list-style-type: none;
+    }
+
+    /* Container for the form and image */
+    .container {
+      text-align: center;
+      width: 100%;
+      max-width: 600px;
+      padding: 20px;
+      background-color: white;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0);
+    }
+
+    /* Style for the search bar */
+    .form-group {
+      display: flex;                /* Use flexbox for the form */
+      justify-content: center;      /* Center the items inside the form */
+      align-items: center;          /* Vertically center */
+    }
+
+    .form-group input[type="text"] {
+      flex-grow: 1;
+      height: 40px;
+      padding: 10px 20px;            /* Add padding to the input field */
+      font-size: 18px;
+      border-radius: 0px;           /* Rounded corners for the input box */
+      border: 1px solid #ccc;
+      margin-right: 10px;           /* Add some space between the input and button */
+    }
+
+    .form-group button {
+      width: 100px;
+      height: 40px;
+      padding: 0;
+      font-size: 18px;
+      border-radius: 0px;
+      border: none;
+      background-color: #a6a6a6;
+      color: white;
+      cursor: pointer;
+    }
+
+    .form-group button:hover {
+      background-color: #737373;
+    }
+
+    .results {
+      margin-top: 20px;
+    }
+
+    .result-item {
+      padding: 10px;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .result-item:last-child {
+      border-bottom: none;
+    }
+
+    .pagination {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+
+    .pagination a {
+      padding: 5px 10px;
+      margin: 0 5px;
+      background-color: #a6a6a6;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+
+    .pagination a:hover {
+      background-color: #737373;
+    }
+</style>
+
+<body>
+    <div class="container">
+      <img src="cyberminer_logo.png" alt="Logo" style="max-width: 500px; margin-bottom: 40px;">
+
+        <form action="/process_form" method="POST">
+            <input type="hidden" name="system" value="cyberminer">
+
+            <div class="form-group">
+                <input type="text" name="search" placeholder="Enter text" class="form-control" required>
+
+                <button type="submit">
+                  <i class="fas fa-search"></i> <!-- Font Awesome magnifying glass icon -->
+                </button>
+            </div>
+        </form>
+
+        <div class="results">
+          <ul>
+              <!-- Search results will be dynamically inserted here -->
+          </ul>
+
+            <!-- Pagination -->
+            <div class="pagination">
+
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
