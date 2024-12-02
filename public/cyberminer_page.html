@@ -10,7 +10,7 @@ NOTE: The logo was use using Canva and ChatGPT was use to help design the fronte
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Form Submission</title>
+    <title>Cyberminer Form Submission</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
@@ -97,11 +97,33 @@ NOTE: The logo was use using Canva and ChatGPT was use to help design the fronte
       background-color: #a6a6a6;
       color: white;
       text-decoration: none;
-      border-radius: 5px;
+      border-radius: 0;
     }
 
     .pagination a:hover {
       background-color: #737373;
+    }
+
+    #items-per-page-form {
+      display: flex;
+      align-items: center;
+    }
+
+    #items-per-page-form input[type="number"] {
+      text-align: center;
+      font-size: 14px;
+    }
+
+    #items-per-page-form button {
+      background-color: #f0f0f0;
+      border: 1px solid #ccc;
+      font-size: 14px;
+      padding: 3px 8px;
+      cursor: pointer;
+    }
+
+    #items-per-page-form button:hover {
+      background-color: #e0e0e0;
     }
 </style>
 
@@ -122,16 +144,46 @@ NOTE: The logo was use using Canva and ChatGPT was use to help design the fronte
         </form>
 
         <div class="results">
-          <ul>
+          <ul id="result-list">
               <!-- Search results will be dynamically inserted here -->
           </ul>
 
-            <!-- Pagination -->
-            <div class="pagination">
-
-            </div>
+          <!-- Pagination -->
+          <div class="pagination" id="pagination-links">
+              <!-- Pagination links will be dynamically inserted here -->
+          </div>
         </div>
     </div>
+
+    <!-- Segment of code obtained from ChatGPT -->
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+          const links = document.querySelectorAll("#result-list a");
+
+          links.forEach(link => {
+            link.addEventListener("click", (event) => {
+
+              const clickedUrl = event.target.href;
+
+              fetch("/log_click", {
+                method: "POST",
+                headers: {
+                  "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ url: clickedUrl })
+              })
+              .then(response => {
+                if (!response.ok) {
+                  console.error("Failed to log the click:", response.statusText);
+                }
+              })
+              .catch(err => {
+                console.error("Error while logging the click:", err);
+              });
+            });
+          });
+        });
+    </script>
 
 </body>
 

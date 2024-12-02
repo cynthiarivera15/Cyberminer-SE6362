@@ -92,7 +92,7 @@ string Circular_Shift::Read_Line(Line_Storage readLine, int line) {
 
 void Circular_Shift::Eliminate_Noise_Words(string &noiseWordLine)
 {
-  vector<string> noise_words = {"a", "also", "an", "and", "at", "be", "but", "can", "here", "in", "it", "is", "of", "or", "so", "that", "the", "then", "there", "they", "this", "was", "yet"};
+  vector<string> noise_words = {"a", "an", "and", "at", "be", "but", "can", "in", "it", "is", "of", "or", "so", "that", "the", "then", "there", "they", "this", "was", "yet"};
 
   stringstream splitLine(noiseWordLine);
   string token = " ";

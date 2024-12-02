@@ -848,6 +848,55 @@ CMakeFiles/server.dir/server.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/stat.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/thread \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/unordered_set \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/json.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/adl_serializer.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/abi_macros.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/conversions/from_json.hpp \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/forward_list \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/valarray \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/exceptions.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/value_t.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/macro_scope.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/meta/detected.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/meta/void_t.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/thirdparty/hedley/hedley.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/string_escape.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/input/position_t.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/meta/cpp_future.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/meta/type_traits.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/iterators/iterator_traits.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/meta/call_std/begin.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/meta/call_std/end.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/json_fwd.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/string_concat.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/meta/identity_tag.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/meta/std_fs.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/conversions/to_json.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/iterators/iteration_proxy.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/byte_container_with_subtype.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/hash.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/input/binary_reader.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/input/input_adapters.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/input/json_sax.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/input/lexer.hpp \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/clocale \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/meta/is_sax.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/input/parser.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/iterators/internal_iterator.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/iterators/primitive_iterator.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/iterators/iter_impl.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/iterators/json_reverse_iterator.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/json_custom_base_class.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/json_pointer.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/json_ref.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/output/binary_writer.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/output/output_adapters.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/output/serializer.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/conversions/to_chars.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/ordered_map.hpp \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/any \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/macro_unscope.hpp \
+  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
   /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Master_Control.h \
   /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Input.h \
   /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Line_Storage.h \

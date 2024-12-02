@@ -755,10 +755,9 @@ CMakeFiles/server.dir/Alphabetizer.cpp.o
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Alphabetizer.cpp
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Alphabetizer.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Circular_Shift.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Line_Storage.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Alphabetizer.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Circular_Shift.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Line_Storage.h
 
 CMakeFiles/server.dir/Circular_Shift.cpp.o
  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Circular_Shift.cpp
@@ -1514,9 +1513,8 @@ CMakeFiles/server.dir/Circular_Shift.cpp.o
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Circular_Shift.cpp
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Circular_Shift.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Line_Storage.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Circular_Shift.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Line_Storage.h
 
 CMakeFiles/server.dir/Cyberminer.cpp.o
  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Cyberminer.cpp
@@ -2367,15 +2365,14 @@ CMakeFiles/server.dir/Cyberminer.cpp.o
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Alphabetizer.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Circular_Shift.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Cyberminer.cpp
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Cyberminer.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Input.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Line_Storage.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Master_Control.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Output.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/include/httplib.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Alphabetizer.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Circular_Shift.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Cyberminer.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Input.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Line_Storage.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Master_Control.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Output.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/httplib.h
 
 CMakeFiles/server.dir/Input.cpp.o
  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Input.cpp
@@ -3131,9 +3128,8 @@ CMakeFiles/server.dir/Input.cpp.o
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Input.cpp
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Input.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Line_Storage.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Input.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Line_Storage.h
 
 CMakeFiles/server.dir/Line_Storage.cpp.o
  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Line_Storage.cpp
@@ -3889,8 +3885,7 @@ CMakeFiles/server.dir/Line_Storage.cpp.o
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Line_Storage.cpp
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Line_Storage.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Line_Storage.h
 
 CMakeFiles/server.dir/Master_Control.cpp.o
  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Master_Control.cpp
@@ -4741,14 +4736,13 @@ CMakeFiles/server.dir/Master_Control.cpp.o
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Alphabetizer.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Circular_Shift.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Input.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Line_Storage.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Master_Control.cpp
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Master_Control.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Output.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/include/httplib.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Alphabetizer.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Circular_Shift.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Input.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Line_Storage.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Master_Control.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Output.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/httplib.h
 
 CMakeFiles/server.dir/Output.cpp.o
  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Output.cpp
@@ -5504,11 +5498,10 @@ CMakeFiles/server.dir/Output.cpp.o
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Alphabetizer.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Circular_Shift.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Line_Storage.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Output.cpp
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Output.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Alphabetizer.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Circular_Shift.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Line_Storage.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Output.h
 
 CMakeFiles/server.dir/server.cpp.o
  /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/server.cpp
@@ -6116,6 +6109,7 @@ CMakeFiles/server.dir/server.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__variant/monostate.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__verbose_abort
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/algorithm
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/any
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/array
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/atomic
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/bit
@@ -6125,6 +6119,7 @@ CMakeFiles/server.dir/server.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/cerrno
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/chrono
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/climits
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/clocale
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/cmath
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/compare
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/concepts
@@ -6144,6 +6139,7 @@ CMakeFiles/server.dir/server.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/errno.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/exception
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/filesystem
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/forward_list
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/fstream
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/functional
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/initializer_list
@@ -6188,6 +6184,7 @@ CMakeFiles/server.dir/server.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/unordered_map
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/unordered_set
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/utility
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/valarray
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/variant
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/vector
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/version
@@ -6359,13 +6356,57 @@ CMakeFiles/server.dir/server.cpp.o
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Alphabetizer.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Circular_Shift.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Cyberminer.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Input.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Line_Storage.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Master_Control.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/Output.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/include/httplib.h
- /Users/cynthiamarie/Documents/GitHub/SE-6362-Project/server.cpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Alphabetizer.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Circular_Shift.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Cyberminer.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Input.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Line_Storage.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Master_Control.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/Output.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/httplib.h
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/json.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/adl_serializer.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/byte_container_with_subtype.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/abi_macros.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/conversions/from_json.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/conversions/to_chars.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/conversions/to_json.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/exceptions.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/hash.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/input/binary_reader.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/input/input_adapters.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/input/json_sax.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/input/lexer.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/input/parser.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/input/position_t.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/iterators/internal_iterator.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/iterators/iter_impl.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/iterators/iteration_proxy.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/iterators/iterator_traits.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/iterators/json_reverse_iterator.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/iterators/primitive_iterator.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/json_custom_base_class.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/json_pointer.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/json_ref.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/macro_scope.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/macro_unscope.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/meta/call_std/begin.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/meta/call_std/end.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/meta/cpp_future.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/meta/detected.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/meta/identity_tag.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/meta/is_sax.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/meta/std_fs.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/meta/type_traits.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/meta/void_t.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/output/binary_writer.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/output/output_adapters.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/output/serializer.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/string_concat.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/string_escape.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/detail/value_t.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/json_fwd.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/ordered_map.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/thirdparty/hedley/hedley.hpp
+ /Users/cynthiamarie/Documents/GitHub/Cyberminer-SE6362/include/nlohmann/thirdparty/hedley/hedley_undef.hpp
 
