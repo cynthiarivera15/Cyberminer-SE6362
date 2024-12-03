@@ -18,9 +18,9 @@ This repository contains the source code for the Cyberminer search engine which 
 - The system only accepts string of the following format: URL|Description, where
   * URL part:\
     `URL ::= ‘http://’ url_identifier ‘.’ url_identifier ‘.’ [‘edu’ | ‘com’ | ‘org’ | ‘net’ | ‘gov’]’/’[identifier]*`\
-    `url_identifier ::= {letter | digit | special characters}+`_
-    `letter ::= [‘a’ | ‘b’ | ... | ‘y’ | ‘z’ | ‘A’ | ‘B’ | ... | ‘Y’ | ‘Z’]`_
-    `digit ::= [‘1’ | ‘2’ | ... | ‘9’ | ‘0’]`
+    `url_identifier ::= {letter | digit | special characters}+`\
+    `letter ::= [‘a’ | ‘b’ | ... | ‘y’ | ‘z’ | ‘A’ | ‘B’ | ... | ‘Y’ | ‘Z’]`\
+    `digit ::= [‘1’ | ‘2’ | ... | ‘9’ | ‘0’]`\
     `special characters ::= [‘-’ | ‘_’ | ‘@’ | ‘/’ | ‘(‘ | ‘)’ | ‘?’ | ‘=’ | ‘&’ | ‘#’]`
   * Descriptor part:
     `Description ::= descriptor_identifier {‘ ‘ descriptor_identifier}*`
