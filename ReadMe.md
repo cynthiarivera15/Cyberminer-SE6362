@@ -33,3 +33,10 @@ This repository contains the source code for the Cyberminer search engine which 
   * Only one type of keyword at a time is accepted.
   * `NOT` is the only keyword accepted at the beginning of the string, and always has to be followed by another search word
   * `AND` and `OR` must have at least one search word before and after
+
+### Missing Requirements
+- Cyberminer does not filter out symbols that are not meaningful
+- Cyberminer does not have an autofill method that corrects typographical errors as well
+- KWIC system tends to get stuck in some runs (meaning it works sometime and not others), further modifications need to be done to avoid this happening
+  * As long as the `output.txt` contains the alphabetized shifted lines, Cyberminer will work just fine
+  * If the `output.txt` file is empty, then Cyberminer will not return anything
