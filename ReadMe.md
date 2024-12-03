@@ -16,20 +16,20 @@ This repository contains the source code for the Cyberminer search engine which 
 
 ### KWIC system
 - The system only accepts string of the following format: URL|Description, where
-- - URL part:
-    URL ::= ‘http://’ url_identifier ‘.’ url_identifier ‘.’ [‘edu’ | ‘com’ | ‘org’ | ‘net’ | ‘gov’]’/’[identifier]*
-    url_identifier ::= {letter | digit | special characters}+
-    letter ::= [‘a’ | ‘b’ | ... | ‘y’ | ‘z’ | ‘A’ | ‘B’ | ... | ‘Y’ | ‘Z’]
-    digit ::= [‘1’ | ‘2’ | ... | ‘9’ | ‘0’]
-    special characters ::= [‘-’ | ‘_’ | ‘@’ | ‘/’ | ‘(‘ | ‘)’ | ‘?’ | ‘=’ | ‘&’ | ‘#’]
-- - Descriptor part
-    Description ::= descriptor_identifier {‘ ‘ descriptor_identifier}*
-    descriptor_identifier ::= {letter | digit}+
+  * URL part:_
+    `URL ::= ‘http://’ url_identifier ‘.’ url_identifier ‘.’ [‘edu’ | ‘com’ | ‘org’ | ‘net’ | ‘gov’]’/’[identifier]*`_
+    `url_identifier ::= {letter | digit | special characters}+`_
+    `letter ::= [‘a’ | ‘b’ | ... | ‘y’ | ‘z’ | ‘A’ | ‘B’ | ... | ‘Y’ | ‘Z’]`_
+    `digit ::= [‘1’ | ‘2’ | ... | ‘9’ | ‘0’]`_
+    `special characters ::= [‘-’ | ‘_’ | ‘@’ | ‘/’ | ‘(‘ | ‘)’ | ‘?’ | ‘=’ | ‘&’ | ‘#’]`
+  * Descriptor part:
+    `Description ::= descriptor_identifier {‘ ‘ descriptor_identifier}*`
+    `descriptor_identifier ::= {letter | digit}+`
 
 ### Cyberminer
 - The system only accepts strings in the format of the descriptor part (do not add any noise words because is not program to ignore them yet which means that it will return every url where the descriptor has a noise word)
-- - The list of noise words is as following: `a`, `an`, `and`, `at`, `be`, `but`, `can`, `in`, `it`, `is`, `of`, `or`, `so`, `that`, `the`, `then`, `there`, `they`, `this`, `was`, `yet`
+  * The list of noise words is as following: `a`, `an`, `and`, `at`, `be`, `but`, `can`, `in`, `it`, `is`, `of`, `or`, `so`, `that`, `the`, `then`, `there`, `they`, `this`, `was`, `yet`
 - Additionally the user can decide whether to add a keyword (`AND`, `OR`, and `NOT`) to the descriptor part.
-- - Only one type of keyword at a time is accepted.
-- - `NOT` is the only keyword accepted at the beginning of the string, and always has to be followed by another search word
-- - `AND` and `OR` must have at least one search word before and after
+  * Only one type of keyword at a time is accepted.
+  * `NOT` is the only keyword accepted at the beginning of the string, and always has to be followed by another search word
+  * `AND` and `OR` must have at least one search word before and after
